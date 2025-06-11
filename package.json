@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "node-fetch": "^3.3.2",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  }
+}
